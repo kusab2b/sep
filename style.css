@@ -1,0 +1,326 @@
+﻿
+*{
+    box-sizing: border-box;
+}
+@font-face {
+    font-family: heebo;
+    src: url(fonts/Heebo-Regular.ttf);
+}
+
+
+.href1{
+    text-decoration: none;
+    color: #000000;
+}
+.href2{
+    text-decoration: none;
+    color: #000000;
+}
+.href3{
+    text-decoration: none;
+    color: #000000;
+}
+.naavss{
+    font-size: 20px;
+    font-family: heebo;
+    color: #000000;
+}
+.name{
+    width: 430px;
+    font-size: 44px;
+    font-family: heebo;
+    color: #21243D;
+}
+.refund{
+     width: 495px;
+     margin-top: 40px;
+    font-size: 16px;
+    font-family: heebo;
+   
+
+}
+.btn{
+    width: 207px;
+    margin-top: 38px;
+    border-radius: 2px;
+    background-color: #FF6464;
+    font-size: 20px;
+    font-family: heebo;
+    color: #FFFFFF;
+}
+.biograf{
+    justify-content: center;
+    margin-top: 140px;
+}
+.face{
+    margin-left: 106px;
+}
+.rectange{
+    margin-top: 71px;
+    
+    background-color: #EDF7FA;
+}
+.post{
+    margin-left: 110px;
+    font-size: 22px;
+    font-family: heebo;
+}
+
+.allpost{
+    margin-left: 710px;
+    font-size: 16px;
+    font-family: heebo;
+    text-decoration: none;
+}
+.nextgen{
+    align-items: center;
+   
+    padding-top: 17px;
+}
+
+.header{
+    margin-left: 100px;
+}
+.figm1{
+    width: 430px;
+    background-color: #FFFFFF;
+}
+.figm2{
+    width: 430px;
+    background-color: #FFFFFF;
+}
+.designsystem{
+    font-size: 26px;
+    font-family: heebo;
+    padding-left: 10%;
+    padding-top: 24px;
+    
+}
+.designsystem1{
+    font-size: 26px;
+    font-family: heebo;
+    padding-left: 10%;
+    padding-top: 24px;
+    
+}
+.design{
+    font-size: 18px;
+    font-family: heebo;
+}
+.designmap{
+    font-size: 18px;
+    font-family: heebo;
+    margin-left: 26px;
+}
+.vector{
+    border: 1px solid;
+    height: 15px;
+    margin-left: 10px;
+    margin-top: 5px;
+}
+.market{
+    margin-left: 40px;
+    margin-top: 17px;
+}
+.dolor{
+    width: 370px;
+    height: 117px;
+    font-size: 16px;
+    font-family: heebo;
+    margin-left: 35px;
+}
+.feature{
+    font-size: 22px;
+    font-family: heebo;
+    margin-top: 17px;
+    margin-left: 110px;
+}
+.designdash{
+    font-size: 30px;
+    font-family: heebo;
+}
+.rectange2{
+    width: 60px;
+    text-align: center;
+    height: 25px;
+    border-radius: 16px;
+    background-color: #142850;
+    font-size: 18px;
+    color: #FFFFFF;
+}
+.dashboard{
+    margin-left: 110px;
+}
+.dashboard1{
+    margin-left: 110px;
+}
+.dashboard2{
+    margin-left: 110px;
+}
+.rect30{
+    margin-top: 10px;
+}
+.desdaash{
+    margin-left: 15px;
+}
+.board{
+    margin-left: 26px;
+    font-size: 20px;
+    font-family: heebo;
+    color: #8695A4;
+}
+.amet{
+    width: 594px;
+    font-size: 16px;
+    font-family: heebo;
+    color: #21243D;
+}
+.amet1{
+    width: 507px;
+
+    font-size: 16px;
+    font-family: heebo;
+    color: #21243D;
+}
+
+.boardrec{
+    margin-top: 16px;
+}
+.separator2{
+    width: 858px;
+    margin-top: 15px;
+    margin-left: 110px;
+    border: 1px solid #E0E0E0;
+}
+.separator3{
+    width: 858px;
+    margin-top: 35px;
+    margin-left: 110px;
+    border: 1px solid #E0E0E0;
+}
+.separator4{
+    width: 858px;
+    margin-top: 32px;
+    margin-left: 110px;
+    border: 1px solid #E0E0E0;
+}
+.social{
+    width: 230px;
+    margin-left: auto;
+    margin-right: auto;
+    justify-content: space-between;
+    margin-top: 134px;
+}
+.footer{
+    font-size: 14px;
+    margin-top: 25px;
+    text-align: center;
+    font-family: heebo;
+    color: #21243D;
+}
+.biograf1{
+    display: none;
+}
+.navpic{
+    display: none;
+}
+.important{
+    display: none;
+}
+.footer1{
+    display: grid;
+    justify-content: center;
+}
+
+@media screen and (max-width:700px) {
+    .face{
+        width:170.86px !important;
+        height: 170.86px !important;
+        margin-left: auto !important;
+        margin-right: auto !important;
+        
+        
+    }
+    .name{
+        width: 300px !important;
+        font-size: 32px !important;
+        margin-top: 34px !important;
+       align-items: center !important;
+       text-align: center !important;
+        
+    }
+    .refund{
+        width: 330px !important;
+        margin-top: 21px !important;
+        font-size: 16px !important;
+        text-align: center !important;
+    }
+    .biograf{
+        display: none !important;
+
+    }
+    .btn{
+      margin-left: 55px !important;
+    }
+    .biograf1{
+     display: grid !important;
+     justify-content: center !important;
+    }
+    .navss{
+        display: none !important;
+    }
+    
+
+    .allpost{
+        display: none !important;
+    }
+    .post{
+        font-size: 18px !important;
+        text-align: center;
+    }
+    .rectange{
+        margin-left: auto !important;
+        margin-right: auto !important;
+    }
+    .fax{
+        display: none !;
+    }
+    
+   .important{
+    display: grid !important;
+    justify-content: center !important;
+    height: 600px !important;
+    background-color: #EDF7FA !important;
+   }
+   .fax{
+    display: none ;
+   }
+   .cool{
+    margin-top: 27px !important;
+   }
+   .dashboard{
+    display: grid !important;
+   }
+   .amet{
+    width: 330px !important;
+   }
+   .dashboard1{
+    display: none !important;
+   }
+   .dashboard2{
+    display: none !important;
+   }
+   .separator3{
+    display: none !important;
+   }
+   .separator4{
+    display: none !important;
+   }
+   .footer1{
+    margin-top: 200px !important;
+     display: grid !important;
+     justify-content: center !important;
+   }
+  
+  
+}
